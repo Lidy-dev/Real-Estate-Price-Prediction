@@ -83,12 +83,12 @@ The correlation heatmap shows the relationships between the features and the tar
 ### Feature Distributions
 The distributions of the features are plotted to observe their spread and behavior.
 
-![Feature Distributions](path_to_your_repository/feature_distributions.png)
+![Feature Distributions]([path_to_your_repository/feature_distributions.png](https://github.com/Lidy-dev/Real-Estate-Price-Prediction/blob/main/ActualVSPredicted.png))
 
 ### Actual vs. Predicted Prices
 This plot compares the actual house prices with the prices predicted by the model.
 
-![Actual vs. Predicted Prices](path_to_your_repository/actual_vs_predicted.png)
+![Actual vs. Predicted Prices]([path_to_your_repository/actual_vs_predicted.png](https://github.com/Lidy-dev/Real-Estate-Price-Prediction/blob/main/ActualVSPredicted.png))
 
 ### Residual Plot
 The residual plot shows the difference between actual prices and predicted prices.
