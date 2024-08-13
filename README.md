@@ -71,3 +71,27 @@ streamlit run app.py
 ```
 
 The app will open in a web browser where you can input the required features and get the predicted house price.
+
+
+## Visualizations
+
+### Correlation Heatmap
+The correlation heatmap shows the relationships between the features and the target variable.
+
+![Correlation Heatmap]([path_to_your_repository/correlation_heatmap.png](https://github.com/Lidy-dev/Real-Estate-Price-Prediction/blob/main/ActualVSPredicted.png))
+
+### Feature Distributions
+The distributions of the features are plotted to observe their spread and behavior.
+
+![Feature Distributions](path_to_your_repository/feature_distributions.png)
+
+### Actual vs. Predicted Prices
+This plot compares the actual house prices with the prices predicted by the model.
+
+![Actual vs. Predicted Prices](path_to_your_repository/actual_vs_predicted.png)
+
+### Residual Plot
+The residual plot shows the difference between actual prices and predicted prices.
+
+![Residual Plot](path_to_your_repository/residual_plot.png)
+
