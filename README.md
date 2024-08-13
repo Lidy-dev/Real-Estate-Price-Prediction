@@ -12,7 +12,6 @@ Ensure the following Python libraries are installed in your environment:
 - `pandas`: For data manipulation and analysis.
 - `streamlit`: For creating the web application interface.
 - `scikit-learn`: For building and training the machine learning model.
-- `IPython`: For displaying embedded Vimeo videos (if needed).
 
 You can install these dependencies using pip:
 
