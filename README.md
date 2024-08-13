@@ -77,8 +77,7 @@ The app will open in a web browser where you can input the required features and
 
 ### Correlation Heatmap
 The correlation heatmap shows the relationships between the features and the target variable.
-
-![Correlation Heatmap](https://github.com/Lidy-dev/Real-Estate-Price-Prediction/blob/main/ActualVSPredicted.png)
+![Correlation Heatmap](https://github.com/Lidy-dev/Real-Estate-Price-Prediction/blob/main/Corr_RealEstate.png)
 
 ### Feature Distributions
 The distributions of the features are plotted to observe their spread and behavior.
